@@ -1,4 +1,4 @@
-# Copper Android — Website
+# Copper Site
 
 Static, single-page website for [Copper Launcher](https://github.com/CopperLauncher/Copper-Android), a Minecraft: Java Edition launcher for Android. Designed in Material 3 Expressive.
 
